@@ -9,5 +9,8 @@
         <module name="CompositeBlock" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="CompositeBlock" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>
